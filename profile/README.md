@@ -12,7 +12,7 @@ We build custom WordPress solutions for digital agencies and businesses. With 30
 - **WordPress Consulting** – Technical guidance and problem-solving for complex WordPress projects
 - **White-Label Development** – Partner with agencies to deliver client work under your brand
 - **Site Maintenance & Support** – Keep WordPress sites secure, updated, and running smoothly
-- **AI-Enhanced Development** – Leverage modern AI tools to deliver faster, more efficient solutions
+- **AI-Enhanced Development** – Leverage modern AI tools to deliver faster, more efficient solutions, with client opt-out available.
 
 ## Our Approach
 
