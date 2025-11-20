@@ -18,6 +18,8 @@ We build custom WordPress solutions for digital agencies and businesses. With 30
 
 We combine deep WordPress expertise with practical AI-enhanced development workflows. Tools like Claude Code, Codex CLI, and GitHub Copilot help us work efficiently while maintaining code quality and security standards.
 
+Client opt-out of the use of AI tools is of course always available. 
+
 We focus on solving real problems rather than chasing trends. Whether it's a complex custom plugin, a thorny integration challenge, or long-term maintenance, we deliver solutions that work.
 
 ## Work With Us
