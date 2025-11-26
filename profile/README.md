@@ -20,7 +20,7 @@ We combine deep WordPress expertise with practical AI-enhanced development workf
 
 Client opt-out of the use of AI tools is of course always available. 
 
-We focus on solving real problems rather than chasing trends. Whether it's a complex custom plugin, a thorny integration challenge, or long-term maintenance, we deliver solutions that work.
+We focus on solving real challenges rather than chasing trends. Whether it's a complex custom plugin, a thorny integration challenge, or long-term maintenance, we deliver solutions that work.
 
 ## Work With Us
 
