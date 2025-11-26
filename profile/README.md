@@ -30,4 +30,6 @@ We primarily partner with digital agencies providing white-label development ser
 
 ---
 
-*Building WordPress solutions since 2012. Writing code since 1995.*
+*Building WordPress solutions since 2012.*
+
+*Writing code since 1995.*
