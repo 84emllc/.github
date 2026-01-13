@@ -13,11 +13,11 @@ We handle the technical challenges that keep projects moving forward.
 - **Custom Plugin Development** – Build functionality that doesn't exist in off-the-shelf solutions
 - **WordPress Consulting** – Technical audits and architectural planning, backed by decades of experience
 - **Agency Partnerships** – White-label, client-facing, whatever works for you
-- **Site Maintenance & Support** – Keep WordPress sites secure, updated, and running smoothly
+- **AI Integration & Development** – Custom AI integrations for WordPress and web apps. LLM APIs, automation pipelines, and workflow tools. Practical implementations, not science projects
+- **Site Maintenance & Support** – Keep sites secure, updated, and running smoothly
 - **Security & Troubleshooting** – Site compromised? Plugin conflicts? We handle emergencies and security hardening alike
 - **Code Cleanup & Refactoring** – Fix messy WordPress code—AI-generated or inherited
 - **Data Migrations** – Complex migrations—content, databases, order histories—delivered intact and functional
-- **AI-Enhanced Development** – Modern AI tools for faster, more efficient delivery (client opt-out available)
 
 ## Our Approach
 
@@ -33,7 +33,7 @@ We partner with digital agencies and work directly with businesses that need rel
 
 **Book a free consult:** [84em.to/discovery](https://84em.to/discovery)
 
-## Read Our Blogs
+## Blogs
 
 **AI Blog:** [84em.ai](https://84em.ai)
 
