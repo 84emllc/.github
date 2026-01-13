@@ -35,9 +35,9 @@ We partner with digital agencies and work directly with businesses that need rel
 
 ## Blogs
 
-**AI Blog:** [84em.ai](https://84em.ai)
+**AI:** [84em.ai](https://84em.ai)
 
-**DEV Blog:** [84em.dev](https://84em.dev)
+**Dev:** [84em.dev](https://84em.dev)
 
 
 ---
