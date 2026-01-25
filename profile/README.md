@@ -31,8 +31,6 @@ We partner with digital agencies and work directly with businesses that need rel
 
 **Website:** [84em.com](https://84em.com)
 
-**Book a free consult:** [84em.to/discovery](https://84em.to/discovery)
-
 ## Blogs
 
 **AI:** [84em.ai](https://84em.ai)
