@@ -31,15 +31,8 @@ We partner with digital agencies and work directly with businesses that need rel
 
 **Website:** [84em.com](https://84em.com)
 
-## Blogs
-
-**AI:** [84em.ai](https://84em.ai)
-
-**Dev:** [84em.dev](https://84em.dev)
-
-
 ---
 
-*Building for the web since 1995. WordPress as our primary platform since 2012.*
+*Engineering for the web since 1995.*
 
-*Most of our repositories are private client projects. The public ones are internal projects.*
+
