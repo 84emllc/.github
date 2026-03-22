@@ -11,13 +11,10 @@ We handle the technical challenges that keep projects moving forward.
 ## Core Services
 
 - **Custom Development** – Build functionality that doesn't exist in off-the-shelf solutions
-- **Technical Consulting** – Audits and architectural planning, backed by decades of experience
 - **Agency Partnerships** – White-label, client-facing, whatever works for you
 - **AI Integration & Development** – Custom integrations with LLM APIs, automation pipelines, and workflow tools
-- **Site Maintenance & Support** – Keep sites secure, updated, and running smoothly
-- **Security & Troubleshooting** – Site compromised? Plugin conflicts? We handle emergencies and security hardening alike
-- **Code Cleanup & Refactoring** – Fix messy code—AI-generated or inherited
-- **Data Migrations** – Complex migrations—content, databases, order histories—delivered intact and functional
+- **Project Rescue** – Stalled builds, broken integrations, failed migrations. We pick up where others left off
+- **Maintenance, Security & Support** – Updates, backups, security monitoring, troubleshooting, and hardening
 
 ## Our Approach
 
