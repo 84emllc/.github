@@ -1,35 +1,13 @@
 # 84EM
 
-Web engineering and consulting practice based in Cedar Rapids, Iowa.
+A web engineering and consulting practice based in Cedar Rapids, Iowa.
 
-## What We Do
+## Services
 
-We build custom solutions for digital agencies and businesses.
+84EM builds custom software for businesses and agencies: WordPress and WooCommerce development, full-stack web apps and SaaS platforms, API integrations, and AI tools built to run in production. The work spans new builds, project rescues, headless and performance engineering, and ongoing maintenance and security, backed by 31 years of web experience and direct access to the engineer doing the work. 84EM also partners with agencies on a white-label or client-facing basis and advises leaders on architecture, AI adoption, and vendor proposals.
 
-We handle the technical challenges that keep projects moving forward.
+## Testimonials
 
-## Core Services
+84EM earns the kind of testimonials most developers don't: relationships measured in years and decades, not projects. Across agencies and direct clients in finance, healthcare, e-commerce, and the arts, the same themes surface again and again, responsiveness, clear communication, met deadlines, and the ability to solve complex problems other developers couldn't. Multiple clients independently describe working with him as a "breath of fresh air" and say any company would be lucky to have him on their team.
 
-- **Custom Development** – Build functionality that doesn't exist in off-the-shelf solutions
-- **Agency Partnerships** – White-label, client-facing, whatever works for you
-- **AI Integration & Development** – Custom integrations with LLM APIs, automation pipelines, and workflow tools
-- **Project Rescue** – Stalled builds, broken integrations, failed migrations. We pick up where others left off
-- **Maintenance, Security & Support** – Updates, backups, security monitoring, troubleshooting, and hardening
-
-## Our Approach
-
-We combine deep platform expertise with AI-enhanced development workflows.
-
-Tools like Claude Code, Codex CLI, Gemini CLI, and GitHub Copilot help us work efficiently while maintaining code quality and security standards.
-
-## Work With Us
-
-We partner with digital agencies and work directly with businesses that need reliable technical expertise.
-
-**Website:** [84em.com](https://84em.com)
-
----
-
-*Engineering for the web since 1995.*
-
-
+[84em.com](https://84em.com)
