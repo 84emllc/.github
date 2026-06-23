@@ -4,7 +4,11 @@ A web engineering and consulting practice based in Cedar Rapids, Iowa.
 
 ## Services
 
-84EM builds custom software for businesses and agencies: WordPress and WooCommerce development, full-stack web apps and SaaS platforms, API integrations, and AI tools built to run in production. The work spans new builds, project rescues, headless and performance engineering, and ongoing maintenance and security, backed by 31 years of web experience and direct access to the engineer doing the work. 84EM also partners with agencies on a white-label or client-facing basis and advises leaders on architecture, AI adoption, and vendor proposals.
+84EM builds custom software for businesses and agencies: WordPress and WooCommerce development, full-stack web apps and SaaS platforms, API integrations, and AI tools built to run in production. 
+
+The work spans new builds, project rescues, headless and performance engineering, and ongoing maintenance and security, backed by 31 years of web experience and direct access to the engineer doing the work. 
+
+84EM also partners with agencies on a white-label or client-facing basis and advises leaders on architecture, AI adoption, and vendor proposals.
 
 ## Testimonials
 
