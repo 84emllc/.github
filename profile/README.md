@@ -12,6 +12,6 @@ The work spans new builds, project rescues, headless and performance engineering
 
 ## Testimonials
 
-84EM earns the kind of testimonials most developers don't: relationships measured in years and decades, not projects. Across agencies and direct clients in finance, healthcare, e-commerce, and the arts, the same themes surface again and again, responsiveness, clear communication, met deadlines, and the ability to solve complex problems other developers couldn't. Multiple clients independently describe working with him as a "breath of fresh air" and say any company would be lucky to have him on their team.
+84EM earns the kind of testimonials most developers don't: relationships measured in years and decades, not projects. Across agencies and direct clients in finance, healthcare, e-commerce, and the arts, the same themes surface again and again: responsiveness, clear communication, meeting deadlines, and the ability to solve complex problems other developers couldn't. Multiple clients independently describe working with Andrew @ 84EM as a "breath of fresh air" and say any company would be lucky to have him on their team.
 
 [84em.com](https://84em.com)
